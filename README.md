@@ -2,8 +2,7 @@
 
 Hi there. Thank you for dropping by!
 
-I am **Tomi Familoni**. I currently work as a QA Automation Engineer at [AZA Finance](http://azafinance.com/); a financial tech organisation that serves as a market maker in African currencies by providing hybrid infrastructure for companies to use African currencies with less risk, cost, and friction. 
-At AZA, I work with Software Engineers and Product Managers to deliver quality financial solutions.
+I am **Tomi Familoni**. I currently work as a Senior QA  Engineer at [Remote](https://remote.com/) where I work with Software Engineers and Product Managers to build global payroll, benefits, taxes and compliance solutions for distributed teams.
 
 In my free time, I write articles about software testing and software quality. Feel free to check these articles here: [familonitomi.com](https://familonitomi.com/)
 
